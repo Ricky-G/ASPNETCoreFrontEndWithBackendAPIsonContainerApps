@@ -1,4 +1,4 @@
-name: Build and deploy .NET application to container app ordersapi-app
+name: ordersapi-app
 on:
   push:
     branches:

@@ -1,4 +1,4 @@
-name: Build and deploy .NET application to container app frontend-app
+name: frontend-app
 on:
   push:
     branches:
